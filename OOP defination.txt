@@ -1,0 +1,4 @@
+number system conversion using java applet 
+in this project in decimal and octal no input and output binary no
+
+convert decimal and octal to binary 
